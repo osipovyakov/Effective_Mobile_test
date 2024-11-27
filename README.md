@@ -28,7 +28,7 @@
 1. Клонировать репозиторий
     ```bash
     git clone https://github.com/osipovyakov/Effective_Mobile_test.git
-    cd Effective_Mobile
+    cd Effective_Mobile_test
     ```
     
 2. Выполните команду для запуска приложения:

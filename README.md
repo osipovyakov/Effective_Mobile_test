@@ -27,8 +27,8 @@
 
 1. Клонировать репозиторий
     ```bash
-    git clone https://github.com/osipovyakov/Effective_mobile.git
-    cd Effective Mobile
+    git clone https://github.com/osipovyakov/Effective_Mobile_test.git
+    cd Effective_Mobile_test
     ```
     
 2. Выполните команду для запуска приложения:
@@ -51,5 +51,3 @@ python -m unittest discover -s tests
 **Автор**
 
 Осипов Яков
-
- 

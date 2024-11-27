@@ -7,7 +7,12 @@ def start_ui():
     service = LibraryService(library)
 
     while True:
-        print("\nДоступные команды:\nadd - Добавить книгу\ndelete - Удалить книгу\nsearch - Поиск\ndisplay - Показать список книг\nupdate - Изменить статус книги\nexit - Выход")
+        print("\nДоступные команды:\nadd - Добавить книгу\n"
+                "delete - Удалить книгу\nsearch - Поиск\n"
+                "display - Показать список книг\n"
+                "update - Изменить статус книги\n"
+                "exit - Выход"
+            )
         command = input("Введите команду: ").strip().lower()
 
         if command == "add":

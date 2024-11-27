@@ -27,7 +27,7 @@
 
 1. Клонировать репозиторий
     ```bash
-    git clone https://github.com/osipovyakov/Effective_mobile.git
+    git clone https://github.com/osipovyakov/Effective_Mobile_test.git
     cd Effective Mobile
     ```
     
